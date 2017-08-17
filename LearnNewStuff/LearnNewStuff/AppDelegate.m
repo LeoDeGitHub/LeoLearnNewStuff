@@ -22,7 +22,7 @@
     [JSPatch startWithAppKey:@"14c62a1d8adb79d2"];
     [JSPatch sync];
     
-    [Bugly startWithAppId:@"06dd0f1f46"];
+//    [Bugly startWithAppId:@"06dd0f1f46"];
     return YES;
 }
 
